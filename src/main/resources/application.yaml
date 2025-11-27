@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: scoring
+server:
+  port=8080:
+logging:
+  level:
+    com.tennis.scoring: INFO
